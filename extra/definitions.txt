@@ -1,0 +1,15 @@
+SLpM - Significant Strikes Landed per Minute
+
+StrAcc - Significant Striking Accuracy
+
+SApM - Significant Strikes Absorbed per Minute
+
+StrDef - Significant Strike Defence (the % of opponents strikes that did not land)
+
+TDAvg - Average Takedowns Landed per 15 minutes
+
+TDAcc - Takedown Accuracy
+
+TDDef - Takedown Defense (the % of opponents TD attempts that did not land)
+
+SubAvg - Average Submissions Attempted per 15 minutes
